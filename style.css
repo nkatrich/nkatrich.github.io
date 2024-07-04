@@ -1,0 +1,132 @@
+header{
+    display: flex;
+    align-items: center;
+    background-color: #C8B862;
+    height: 100px;
+    border: black 3px solid;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    background-color: #C8B862;
+    height: 100px;
+    border: black 3px solid;        
+}
+   
+
+a{
+    position:relative ;
+    left: 350px;
+    font-size: 20px;
+    color: black;
+    margin-left: 100px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.catalog{
+    position: relative;
+    left: 350px;
+    padding: 1px;
+    font-size: 24px;
+    width: 300px;
+    height: 400px;
+    border: 3px black solid;
+    text-align: center;
+}
+
+body{
+    margin: 0%;
+}
+
+.aboutANALYSISGAMES{
+    position: relative;
+    left: 943px;
+    background-color: #C8B862; 
+    padding: 10px;
+    width: 500px;
+    right: 300px;
+    text-align: right;
+    text-align: center;
+    border-bottom: black 3px solid;
+    border-left: black 3px solid;
+    border-right: black 3px solid;
+}
+
+ .SHAPKACHIEF{
+    position:relative ;
+    left: 100px;
+    font-family: "Koulen", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+      
+          
+ } 
+ .SHAPKACHIEF2{
+    position:relative ;
+    left: 100px;
+    font-family: "Koulen", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+      
+             
+ }              
+ 
+.right{
+    position:relative;
+    top: 18px;;
+} 
+
+.nav2{
+    position: relative;
+    left: 700px;
+    bottom: 300px;
+    font-weight: bold;
+}
+
+.button{
+    display: inline-block;
+      padding: 30px 40px;
+      background-color: #C8B862;
+      color:black;
+      font-size: 20px;
+      text-decoration: none;
+      border-radius: 10px;
+      position: relative;
+      left: 1013px;
+      bottom: 200px;
+      border: black 3px solid;
+      font-weight: bold;
+}
+
+.Recomendation{
+    position: relative;
+    left: 939px;
+    border: black 3px solid;
+    box-sizing: border-box;
+    padding: 50px 70px 50px 70px;
+    width: 530px;
+    right: 500px;
+   
+    text-align: center;
+}
+
+.AD{
+    border: black 3px solid; 
+    padding: 1px;  
+    width: 300px;
+    height: 400px;
+    position: relative;
+    left: 350px;
+    bottom: 1800px;
+    text-align: center;
+}
+
+.AD2{
+    border: black 3px solid;
+    width: 1393px;
+    height: 200px; 
+    margin: 43px;
+    text-align: center;
+}
